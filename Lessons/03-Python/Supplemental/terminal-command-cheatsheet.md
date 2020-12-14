@@ -7,7 +7,6 @@
 | show current directory              | `pwd`                            | `cd`                      |
 | create new directory                | `mkdir <foldername>`             | `mkdir <foldername>`      |
 | create new empty file               | `touch <filename>`               | `type nul > <filename>`   |
-| delete a file                       | `rm <filename>`                  | `del <filename>           |
+| delete a file                       | `rm <filename>`                  | `del <filename>`          |
 | delete a folder                     | `rm -r <foldername>`             | `rmdir <foldername>`      |
 | open current folder                 | `open .` (mac) `explorer .` (pc) | `explorer .`              |
-|-------------------------------------|----------------------------------|---------------------------|

@@ -14,8 +14,6 @@ input.on("change",runEnter);
 // Complete the event handler function for the form
 function runEnter() {
 
-  // Prevent the page from refreshing
-
   // Select the input element and get the raw HTML node
 
   // Get the value property of the input element

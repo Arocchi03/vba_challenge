@@ -14,7 +14,7 @@ In this activity, we'll plot markers on a map to represent occurrences of earthq
 
 ## Bonus
 
-* Create a separate overlay for the GeoJSON and a base layer by using the `streetmap` tile layer and the `darkmap` tile layer. Add these to a layer control. If you get stuck, refer to the previous activity.
+* Create a separate overlay for the GeoJSON and a base layer by using the `streets` tile layer and the `topo` tile layer. Add these to a layer control. If you get stuck, refer to the previous activity.
 
 * Add a popup to each marker to display the time and location of the earthquake at that location.
 
